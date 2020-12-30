@@ -268,27 +268,27 @@ os.system(delet)
 print("HACK CCTV!")
 print("pilih :")
 print("""
-1. Russian Federation                        
-2. United States                           
-3. Japan                                        
-4. Canada                                     
-5. New Zealand                           
-6. Ukraine                       
-7. Germany                       
-8. Austria                       
-9. Spain                       
-10. Turkey 
-11. Hong Kong
-12. Greece
-13. Portugal
-14. Singapure
-15. Columbia
+1. ✯Russian Federation✯                        
+2. ✯United States✯                          
+3. ✯Japan✯                                       
+4. ✯Canada✯                                     
+5. ✯New Zealand✯                           
+6. 𖣘Ukraine𖣘                       
+7. 𖣘Germany𖣘                       
+8. ⁂Austria⁂                      
+9. 𖧷Spain𖧷                       
+10.❀Turkey❀
+11. 𖦹Hong Kong𖦹
+12. ☠︎︎gracee☠︎︎
+13. 𖣔Portugal𖣔
+14. 𖣔Singapure𖣔
+15. ☢︎︎Columbia☢︎︎
 ꧁༒︎༒︎༒︎Project by 🅼︎🆁︎.404༒︎༒︎༒︎꧂
 Subscribe MR.404 ! 
 https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q
 ------Version 1.2------                      
 """)
-num = int(input("country : "))
+num = int(input("Ⓟ︎Ⓘ︎Ⓛ︎Ⓘ︎Ⓗ︎ : "))
 if num == 1:
         print("\n")		
         os.system(delet)
@@ -642,6 +642,6 @@ print("""
 Subscribe to MR.404 Channel on YouTube! 
 https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q
 --Thanks for using this programm!--
-MODYFIED BY 0X40
+MODYFIED BY MR.404
 ------Version 1.1------
 """)
