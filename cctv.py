@@ -259,14 +259,14 @@ print('------Version 1.2------\n')
 time.sleep(5)
 os.system(delet)
 print("""
-Subscribe to MR.404 Channel on YouTube! 
-termux-open 'https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q'
+Subscribe channelku
+https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q
 ------Version 1.2------
 """)
 time.sleep(4)
 os.system(delet)
-print("Welcome to camera-hack!")
-print("Please select country for hack :")
+print("HACK CCTV!")
+print("pilih :")
 print("""
 1. Russian Federation                        
 2. United States                           
@@ -283,8 +283,8 @@ print("""
 13. Portugal
 14. Singapure
 15. Columbia
-print(m꧁༒︎༒︎༒︎Project by 🅼︎🆁︎.404༒︎༒︎༒︎꧂)
-Subscribe to MR.404 Channel on YouTube! 
+꧁༒︎༒︎༒︎Project by 🅼︎🆁︎.404༒︎༒︎༒︎꧂
+Subscribe MR.404 ! 
 https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q
 ------Version 1.2------                      
 """)
