@@ -5,8 +5,8 @@ from os import system
 from platform import platform
 from time import sleep
 import os
-m="33[31;1m"
-h="33[32;1m"
+m = "33[31;1m"
+h = "33[32;1m"
 puk = platform()[0], platform()[1],  platform()[2], platform()[3], platform()[4], platform()[5], platform()[6]
 
 if puk == ('W', 'i', 'n', 'd', 'o', 'w', 's'):
@@ -283,7 +283,7 @@ print("""
 13. Portugal
 14. Singapure
 15. Columbia
-print m"꧁༒︎༒︎༒︎Project by 🅼︎🆁︎.404༒︎༒︎༒︎꧂"
+print(m꧁༒︎༒︎༒︎Project by 🅼︎🆁︎.404༒︎༒︎༒︎꧂)
 Subscribe to MR.404 Channel on YouTube! 
 https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q
 ------Version 1.2------                      
