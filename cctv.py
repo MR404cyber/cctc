@@ -281,9 +281,9 @@ print("""
 13. Portugal
 14. Singapure
 15. Columbia
-----Project by Yan4ik----
-Subscribe to Yan4ik Channel on YouTube! 
-https://youtube.com/channel/UCu6l8wKI7WGlwoD1It_vcdw
+꧁༒︎༒︎༒︎Project by 🅼︎🆁︎.404༒︎༒︎༒︎꧂
+Subscribe to MR.404 Channel on YouTube! 
+termux-open https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q
 ------Version 1.2------                      
 """)
 num = int(input("country : "))
