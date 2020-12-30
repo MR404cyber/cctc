@@ -283,7 +283,7 @@ print("""
 15. Columbia
 ꧁༒︎༒︎༒︎Project by 🅼︎🆁︎.404༒︎༒︎༒︎꧂
 Subscribe to MR.404 Channel on YouTube! 
-https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q
+os.system("xdg-open https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q")
 ------Version 1.2------                      
 """)
 num = int(input("country : "))
