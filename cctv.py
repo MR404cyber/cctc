@@ -283,7 +283,6 @@ print("""
 13. 𖣔Portugal𖣔
 14. 𖣔Singapure𖣔
 15. ☢︎︎Columbia☢︎︎
-toilet -f standard “MR.404” -F gay
 ꧁༒︎༒︎༒︎Project by 🅼︎🆁︎.404༒︎༒︎༒︎꧂
 Subscribe MR.404 ! 
 https://youtube.com/channel/UC0IpDdp5KzL6RfX1RpUxU7Q
